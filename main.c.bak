@@ -1,0 +1,27 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   main.c                                             :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: jjourne <marvin@42.fr>                     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2016/09/21 12:11:57 by jjourne           #+#    #+#             */
+/*   Updated: 2016/09/22 12:32:04 by jjourne          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#include "includes/libft.h"
+
+int		main(void)
+{
+	char	*destcpy;
+
+	//ft_putchar('J');
+	//ft_putstr("coucou");
+	//printf("len = %d", ft_strlen("coucou"));
+	//printf("ft_strcpy = %s", ft_strcpy(destcpy, "coucou"));
+	//printf("ft_strcmp = %d\nres real = %d", ft_strcmp("ab", "abcde"), strcmp("ab", "abcde"));
+	ft_putnbr(42133742);
+
+	return (0);
+}
